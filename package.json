@@ -3,8 +3,13 @@
   "displayName": "copylines",
   "description": "",
   "version": "0.0.1",
+  "publisher": "krisbrosch",
   "engines": {
     "vscode": "^1.79.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krisbrosch/vscode-copylines.git"
   },
   "categories": [
     "Other"
